@@ -1,0 +1,30 @@
+{
+  "expo": {
+    "name": "ifverde",
+    "slug": "ifverde",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/ifgreenlogo.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/ifgreenlogo.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/ifgreenlogo.png",
+        "backgroundColor": "#ffffff"
+      }
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
